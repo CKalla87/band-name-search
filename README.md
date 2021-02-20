@@ -21,3 +21,8 @@ Once inside the repository run `npm install` to get all the npm packages needed 
 ### `Step 4`
 
 In your command terminal type: `npm run start`
+
+
+### `Step 5`
+
+You should now be able to view the app at: `http://localhost:3000/`
